@@ -10,7 +10,7 @@ A Javascript API Dictionary project
 
 ## API Used
 
-Free Dictionary API : https://dictionaryapi.dev/
+<a href="https://dictionaryapi.dev/" target="_blank">Free Dictionary API</a>
 
 ## Features
 
