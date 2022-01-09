@@ -4,8 +4,8 @@ A Javascript API Dictionary project
 
 ## Screenshots
 
-![Alt text](/../main/path/to/Screenshot 1.png?raw=true "Screenshot")
-![Alt text](/../main/path/to/Screenshot 2.png?raw=true "Screenshot")
+![App Screenshot1](https://i.postimg.cc/Wp7gbMdY/Screenshot-1.png)
+![App Screenshot2](https://i.postimg.cc/pXX89p8W/Screenshot-2.png)
 
 ## Features
 
